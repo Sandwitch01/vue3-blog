@@ -1,11 +1,9 @@
 <template>
-<h1>login</h1>
+  <img width="100%" height="100%" style="overflow: hidden" src="@/assets/img/login-background.png"/>
 </template>
 
-<script>
-export default {
-name: "login"
-}
+<script setup>
+
 </script>
 
 <style scoped>
