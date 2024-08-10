@@ -20,7 +20,7 @@ async function clickRequest(){
 </script>
 
 <template>
-  <BaseNoData/>
+  <router-view />
 </template>
 
 <style scoped>
